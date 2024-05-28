@@ -1,19 +1,25 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# RoadWallet
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+**RoadWallet** is a web application designed to help you manage and track travel expenses efficiently. Built with HTML, CSS, JavaScript, and Firebase Realtime Database, this app allows users to add travelers, record expenses, and see a breakdown of expenses owed by each traveler.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **Add and Manage Travelers:** Easily add travelers and keep track of who is participating in the trip.
+- **Expense Tracking:** Add expenses by category (food, gas, accommodations, sightseeing) and track total expenses.
+- **Real-Time Updates:** All changes are updated in real-time using Firebase Realtime Database.
+- **Expense History:** View a list of all recorded expenses.
 
-Happy Coding!
+## Technologies Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Firebase Realtime Database**
+
+### Prerequisites
+
+- Node.js and npm installed on your machine
+- Firebase account for database setup
+
+## Check it out here!
+https://roadwallet-firebaseapp.netlify.app/
